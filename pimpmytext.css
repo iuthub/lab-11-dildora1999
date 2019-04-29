@@ -26,3 +26,11 @@ textarea {
 	font-family: monospace;
 	font-size: 12pt;
 }
+.blingIt
+{
+	font-weight: bold;
+	color: green;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: rgb(153,0,153);
+}
